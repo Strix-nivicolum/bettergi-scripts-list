@@ -1,5 +1,5 @@
 {
-  "time": "20250511173247",
+  "time": "20250512114715",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -14985,9 +14985,16 @@
                     {
                       "name": "README.md",
                       "type": "file",
-                      "hash": "d6ad8ed419daf4642926c1cc00e6ca20ceefa9ce",
-                      "version": "d6ad8ed",
-                      "error": "Unexpected token 见 in JSON at position 0"
+                      "hash": "16c2b7b46ddc168efbdac8e103d07deed58c0447",
+                      "version": "16c2b7b",
+                      "error": "Unexpected token 详 in JSON at position 0"
+                    },
+                    {
+                      "name": "详见-JS脚本-苍晶螺采集水下(77个).txt",
+                      "type": "file",
+                      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+                      "version": "da39a3e",
+                      "error": "Unexpected end of JSON input"
                     }
                   ]
                 },
@@ -38565,350 +38572,334 @@
               "type": "directory",
               "children": [
                 {
-                  "name": "日落果-须弥-二净甸-7个.json",
-                  "type": "file",
-                  "hash": "c509b2d47a391dda429c9787b52aa076631f0d76",
-                  "version": "1.0",
-                  "author": "起个名字好难的喵",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
+                  "name": "日落果无草神@起个名字好难的喵",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "日落果-须弥-二净甸-7个.json",
+                      "type": "file",
+                      "hash": "c509b2d47a391dda429c9787b52aa076631f0d76",
+                      "version": "1.0",
+                      "author": "起个名字好难的喵",
+                      "description": "",
+                      "tags": [
+                        "食材与炼金",
+                        "日落果"
+                      ],
+                      "lastUpdated": "2025-05-12 01:24:52"
+                    },
+                    {
+                      "name": "日落果-须弥-二净甸-觉王之殿-8个.json",
+                      "type": "file",
+                      "hash": "d6167e648ab2e114d70399160d973636d717abfa",
+                      "version": "1.0",
+                      "author": "起个名字好难的喵",
+                      "description": "",
+                      "tags": [
+                        "食材与炼金",
+                        "日落果"
+                      ],
+                      "lastUpdated": "2025-05-12 01:24:52"
+                    },
+                    {
+                      "name": "日落果-须弥-善见地-禅那园-11个.json",
+                      "type": "file",
+                      "hash": "54035e2a2fb8ae1f99cb1bc3e1ccdbe666894b65",
+                      "version": "1.0",
+                      "author": "起个名字好难的喵",
+                      "description": "",
+                      "tags": [
+                        "食材与炼金",
+                        "日落果",
+                        "纳西妲"
+                      ],
+                      "lastUpdated": "2025-05-12 01:24:52"
+                    },
+                    {
+                      "name": "日落果-须弥-道成林-化成郭-5个.json",
+                      "type": "file",
+                      "hash": "2d2db559f8307783c0fee49c6a5d2e6551f15740",
+                      "version": "1.0",
+                      "author": "起个名字好难的喵",
+                      "description": "",
+                      "tags": [
+                        "食材与炼金",
+                        "日落果"
+                      ],
+                      "lastUpdated": "2025-05-12 01:24:52"
+                    },
+                    {
+                      "name": "日落果-须弥-阿陀河谷-6个.json",
+                      "type": "file",
+                      "hash": "7c3ff0f510c2965afb69d7a3c121231e076f9e65",
+                      "version": "1.0",
+                      "author": "起个名字好难的喵",
+                      "description": "",
+                      "tags": [
+                        "食材与炼金",
+                        "日落果"
+                      ],
+                      "lastUpdated": "2025-05-12 01:24:52"
+                    }
+                  ]
                 },
                 {
-                  "name": "日落果-须弥-二净甸-觉王之殿-8个.json",
-                  "type": "file",
-                  "hash": "d6167e648ab2e114d70399160d973636d717abfa",
-                  "version": "1.0",
-                  "author": "起个名字好难的喵",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果-须弥-善见地-禅那园-11个.json",
-                  "type": "file",
-                  "hash": "54035e2a2fb8ae1f99cb1bc3e1ccdbe666894b65",
-                  "version": "1.0",
-                  "author": "起个名字好难的喵",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果-须弥-道成林-化成郭-5个.json",
-                  "type": "file",
-                  "hash": "2d2db559f8307783c0fee49c6a5d2e6551f15740",
-                  "version": "1.0",
-                  "author": "起个名字好难的喵",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果-须弥-阿陀河谷-6个.json",
-                  "type": "file",
-                  "hash": "7c3ff0f510c2965afb69d7a3c121231e076f9e65",
-                  "version": "1.0",
-                  "author": "起个名字好难的喵",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果01-望风山地-蒙德3个.json",
-                  "type": "file",
-                  "hash": "616399f043a5fc3e95033b3da091ba6cad9a6c7c",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果02-蒙德城外-蒙德7个.json",
-                  "type": "file",
-                  "hash": "d4ef703ea193deb51f61b8a28252174fc59b0711",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果03-蒙德城外-蒙德6个.json",
-                  "type": "file",
-                  "hash": "e9ccde7a43da2a1bfd7c516fec63f409a8a6af49",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果04-星落湖-蒙德36个.json",
-                  "type": "file",
-                  "hash": "85e19fa24f4181604de0ce9a454f34ef7c7f8005",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果05-奔狼岭-蒙德3个.json",
-                  "type": "file",
-                  "hash": "b3cd4fa52f1c8198bc880597b28d6dc2a93dbe71",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果06-奔狼岭-蒙德6个.json",
-                  "type": "file",
-                  "hash": "11205f06a4d03b1f9e327297a5e0f34ece93edfd",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果07-清泉镇-蒙德6个.json",
-                  "type": "file",
-                  "hash": "9cdb7a62d8a7ef481d9a58bc09872dd718c83090",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果08-南风之狮的庙宇-蒙德9个.json",
-                  "type": "file",
-                  "hash": "307fe2b015e7667e62d726304e51046460fbfc9c",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果09-誓言岬-蒙德6个.json",
-                  "type": "file",
-                  "hash": "76e646d5de35fab03061b60dfbe888644b390af0",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果10-誓言岬-蒙德6个.json",
-                  "type": "file",
-                  "hash": "579b100c170803674d63d01d98b543556f04395c",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果11-达达乌帕谷-蒙德15个.json",
-                  "type": "file",
-                  "hash": "4745d362fbdb400de39946fd82e2e8fe25eba2c5",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果12-鹰之门-蒙德9个.json",
-                  "type": "file",
-                  "hash": "e1142b82a7e99a7438e45c07332dcf8ca363c735",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果13-荻花洲-璃月5个.json",
-                  "type": "file",
-                  "hash": "11802b982ab1776d4a9e12fd16927309b03a1fa5",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果14-明蕴镇-璃月3个.json",
-                  "type": "file",
-                  "hash": "862531caea6001d6b7ae6c2e05ce79920d961680",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果15-云来海-璃月6个.json",
-                  "type": "file",
-                  "hash": "16be2d3b6c15ce4e3779fac256e3ce1100f2819a",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果16-云来海-璃月3个.json",
-                  "type": "file",
-                  "hash": "b86c1813ef17a4d615ffefa1a62b21319b2ea967",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果17-归离原-璃月3个.json",
-                  "type": "file",
-                  "hash": "24b292ae1d9ba8da9b79cda11b6106329451bc8a",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果18-灵矩关-璃月3个.json",
-                  "type": "file",
-                  "hash": "f7b8c112b1698490e866d258f39bf1bc0ba4f023",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果19-化城郭-须弥4个.json",
-                  "type": "file",
-                  "hash": "d600c06af049ba8be79c21799eccff5ecad8ee92",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
-                },
-                {
-                  "name": "日落果20-遏颂幽境-须弥6个.json",
-                  "type": "file",
-                  "hash": "db2806fdb90bbcbeefa351a20d32a0adb47bf865",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "description": "",
-                  "tags": [
-                    "食材与炼金",
-                    "日落果",
-                    "纳西妲"
-                  ],
-                  "lastUpdated": "2025-05-11 17:05:54"
+                  "name": "日落果有草神@灰林鸮",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "日落果01【中危】-蒙德望风山地-15个.json",
+                      "type": "file",
+                      "hash": "042032b17e1dabab72fa2c253e8a8be1518d70c4",
+                      "version": "042032b",
+                      "error": "Unexpected token , in JSON at position 153"
+                    },
+                    {
+                      "name": "日落果02-蒙德坠星山谷-14个.json",
+                      "type": "file",
+                      "hash": "10c2ebf95d0ed9da0245861be2a828098fef1435",
+                      "version": "10c2ebf",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果03-蒙德仲夏庭园-1个.json",
+                      "type": "file",
+                      "hash": "992e316528bed61592a369f515c39b2c60d01a19",
+                      "version": "992e316",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果04-蒙德低语森林-28个.json",
+                      "type": "file",
+                      "hash": "e44de127d1666584ca2b8da49feb66acf9795c42",
+                      "version": "e44de12",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果05-蒙德城门-13个.json",
+                      "type": "file",
+                      "hash": "304dd9dd1e46e670938f9164fc98d784aa204c2d",
+                      "version": "304dd9d",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果06-蒙德清泉镇-15个.json",
+                      "type": "file",
+                      "hash": "24c28f0a6b23f14f42b684b22cee04b614254395",
+                      "version": "24c28f0",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果07-蒙德西南-21个.json",
+                      "type": "file",
+                      "hash": "e5d3d0c080adf7604a5a1008205d3c894c09056e",
+                      "version": "e5d3d0c",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果08-蒙德天赋本-3个.json",
+                      "type": "file",
+                      "hash": "fc5644b10ae7bc4a51f55f76fc1e3d2a8ede4c7b",
+                      "version": "fc5644b",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果09-蒙德风起地-15个.json",
+                      "type": "file",
+                      "hash": "22ae547bdc4adc084e4a48a9a27401869a53af45",
+                      "version": "22ae547",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果10-蒙德南风之狮-9个.json",
+                      "type": "file",
+                      "hash": "c804f27a9715a727e152e4ca1ce4b9f9b5011223",
+                      "version": "c804f27",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果11【高危】-蒙德上丘丘谷-30个.json",
+                      "type": "file",
+                      "hash": "662a54499cdd0bb1ca01ab3abe74f707f070ca3a",
+                      "version": "662a544",
+                      "error": "Unexpected token , in JSON at position 155"
+                    },
+                    {
+                      "name": "日落果12-蒙德下丘丘谷-24个.json",
+                      "type": "file",
+                      "hash": "f2a3f2ace3b828ed9f58adb02b8f7ea4f7ea5ccc",
+                      "version": "f2a3f2a",
+                      "error": "Unexpected token , in JSON at position 151"
+                    },
+                    {
+                      "name": "日落果13-蒙德鹰之门-15个.json",
+                      "type": "file",
+                      "hash": "f77789180ec57c3d1e86c2294bd4dec3efb9347b",
+                      "version": "f777891",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果14【中危】-蒙德誓言崖-21个.json",
+                      "type": "file",
+                      "hash": "28d3656f5e12dedbe8bb2a521080b6e7ee570144",
+                      "version": "28d3656",
+                      "error": "Unexpected token , in JSON at position 152"
+                    },
+                    {
+                      "name": "日落果15-蒙德鹰之门上-12个.json",
+                      "type": "file",
+                      "hash": "8bf438e03ad100d9a0607149e7c865f7209115c3",
+                      "version": "8bf438e",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果16-璃月港上-12个.json",
+                      "type": "file",
+                      "hash": "7eb73a8f8010361bf538f157f2311a61090e2917",
+                      "version": "7eb73a8",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果17-璃月云来海-17个.json",
+                      "type": "file",
+                      "hash": "5a5638e8c06e87d3c6c4bc7394c3be00279c6515",
+                      "version": "5a5638e",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果18-璃月墟散人离-20个.json",
+                      "type": "file",
+                      "hash": "d5bb4efdbb1caa0d31c92225e3f99f9c19a0a5a1",
+                      "version": "d5bb4ef",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果19-璃月归离原-12个.json",
+                      "type": "file",
+                      "hash": "d07b085916f4db736f5d50624ccfeee185da7943",
+                      "version": "d07b085",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果20-璃月荻花洲-13个.json",
+                      "type": "file",
+                      "hash": "1dc9970cec36457dff371339ac980f601c85569c",
+                      "version": "1dc9970",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果21-璃月地中之盐-6个.json",
+                      "type": "file",
+                      "hash": "1f80cee22ac844a2f60c034facf670cc7ba9c7a5",
+                      "version": "1f80cee",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果22【中危】-璃月千岩本-30个.json",
+                      "type": "file",
+                      "hash": "93dd9f8d907c07ccb37e71b4dbb359e57ff640fc",
+                      "version": "93dd9f8",
+                      "error": "Unexpected token , in JSON at position 152"
+                    },
+                    {
+                      "name": "日落果23-璃月碧水原上-14个.json",
+                      "type": "file",
+                      "hash": "dd825cce7e4b79b55d3e664ce33befaa9157b151",
+                      "version": "dd825cc",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果24【中危】-璃月明蕴镇-18个.json",
+                      "type": "file",
+                      "hash": "0f0fd6974501c4380deaa6b89ec4a521b36e9215",
+                      "version": "0f0fd69",
+                      "error": "Unexpected token , in JSON at position 152"
+                    },
+                    {
+                      "name": "日落果25-璃月珉林-17个.json",
+                      "type": "file",
+                      "hash": "73f1e51a03a49c96936bf95ad39bb5b0e9bf2389",
+                      "version": "73f1e51",
+                      "error": "Unexpected token , in JSON at position 147"
+                    },
+                    {
+                      "name": "日落果26-璃月太山府-12个.json",
+                      "type": "file",
+                      "hash": "30e47a7709cd2a8ce653bb6d22ee3837c833641e",
+                      "version": "30e47a7",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果27-璃月港左-12个.json",
+                      "type": "file",
+                      "hash": "18349ebccd5faf13fb274456590184d95925240e",
+                      "version": "18349eb",
+                      "error": "Unexpected token , in JSON at position 149"
+                    },
+                    {
+                      "name": "日落果28-璃月港南-6个.json",
+                      "type": "file",
+                      "hash": "075afdb28e71300b7fae973090a682091b040156",
+                      "version": "075afdb",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果29-璃月层岩上层-5个.json",
+                      "type": "file",
+                      "hash": "6436fe41fb41418499db74052827aab5ceb4e2ff",
+                      "version": "6436fe4",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果30【高危】-须弥鸡哥西南-7个.json",
+                      "type": "file",
+                      "hash": "adb9205e5c71af5cc882dd6daf07345d032c6228",
+                      "version": "adb9205",
+                      "error": "Unexpected token , in JSON at position 157"
+                    },
+                    {
+                      "name": "日落果31-须弥化城郭-9个.json",
+                      "type": "file",
+                      "hash": "d6b198a701031bdf5818df56b7642d29c1280568",
+                      "version": "d6b198a",
+                      "error": "Unexpected token , in JSON at position 147"
+                    },
+                    {
+                      "name": "日落果32【中危】-须弥禅那园-11个.json",
+                      "type": "file",
+                      "hash": "46ee2d1496f29b2da7023fbd66517064d694b291",
+                      "version": "46ee2d1",
+                      "error": "Unexpected token , in JSON at position 152"
+                    },
+                    {
+                      "name": "日落果33-须弥东-10个.json",
+                      "type": "file",
+                      "hash": "7d3d4facffe78a03b0158f7d2cdcc40245df7d8d",
+                      "version": "7d3d4fa",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果34【中危】-须弥维摩庄-8个.json",
+                      "type": "file",
+                      "hash": "6e18767d72cb6a4db72aab898f3c7633099e48f7",
+                      "version": "6e18767",
+                      "error": "Unexpected token , in JSON at position 151"
+                    },
+                    {
+                      "name": "日落果35-须弥西北-6个.json",
+                      "type": "file",
+                      "hash": "314bcbb339cee623ef8d981cff03dcbff787ead7",
+                      "version": "314bcbb",
+                      "error": "Unexpected token , in JSON at position 148"
+                    },
+                    {
+                      "name": "日落果36-须弥遏颂幽境-6个.json",
+                      "type": "file",
+                      "hash": "f52ec3348a2644f4bfbd8554467ece1562618607",
+                      "version": "f52ec33",
+                      "error": "Unexpected token , in JSON at position 153"
+                    }
+                  ]
                 }
               ]
             },
@@ -43343,7 +43334,7 @@
                     {
                       "name": "薄荷A12-蒙德-誓言岬.json",
                       "type": "file",
-                      "hash": "45b5146e3a6aa35bdc2f940deee9cce512f47131",
+                      "hash": "e9be2a5e13f5ec5a348095c2730202db8ffd2c4a",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -43352,7 +43343,7 @@
                         "薄荷",
                         "全收集"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷A13-蒙德-达达乌帕谷1.json",
@@ -43595,7 +43586,7 @@
                     {
                       "name": "薄荷A30-雪山-旧宫1.json",
                       "type": "file",
-                      "hash": "58cf4d9994f5012c9b81d34f5364c301be9d9de5",
+                      "hash": "61c297f31b7bb6204f84f33542ab3bea0e2111f5",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -43604,7 +43595,7 @@
                         "薄荷",
                         "全收集"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷A31-雪山-旧宫2.json",
@@ -43777,7 +43768,7 @@
                     {
                       "name": "薄荷B04-璃月-无妄坡2.json",
                       "type": "file",
-                      "hash": "637ebbbb434a9a114d11009dcd4e3d2c6e286b46",
+                      "hash": "5c18954237c68181f8340691b5a357d59f206f74",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -43786,7 +43777,7 @@
                         "薄荷",
                         "全收集"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷B05-璃月-无妄坡3.json",
@@ -44267,7 +44258,7 @@
                     {
                       "name": "薄荷B39-璃月-庆云顶.json",
                       "type": "file",
-                      "hash": "568b998a6940f9e6df9ea2614ae4016c7edf2fbd",
+                      "hash": "969bca92ef76fc5c10ab96aa04ccca21c953b409",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -44276,7 +44267,7 @@
                         "薄荷",
                         "全收集"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷B40-璃月-琥牢山1.json",
@@ -45023,7 +45014,7 @@
                     {
                       "name": "薄荷C31-稻妻-海祇岛-珊瑚宫.json",
                       "type": "file",
-                      "hash": "d4d5518f959bbf5942adc74378edb5301afa1c10",
+                      "hash": "4b0c8f92db8316eec899cc40b90be1aeb1752da6",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -45032,7 +45023,7 @@
                         "薄荷",
                         "全收集"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷C32-稻妻-海祇岛-望泷村1.json",
@@ -45245,6 +45236,20 @@
                       "lastUpdated": "2025-05-11 17:05:54"
                     },
                     {
+                      "name": "薄荷C47-渊下宫-狭间之街1.json",
+                      "type": "file",
+                      "hash": "6c43ee8e70ff66a9bec25224df8f75ed72bcbf47",
+                      "version": "1.0",
+                      "author": "",
+                      "description": "",
+                      "tags": [
+                        "食材与炼金",
+                        "薄荷",
+                        "全收集"
+                      ],
+                      "lastUpdated": "2025-05-12 00:31:59"
+                    },
+                    {
                       "name": "薄荷D01-须弥-无郁稠林.json",
                       "type": "file",
                       "hash": "97d715a2aa8db0e30bed26b4906464ebc03d28a6",
@@ -45416,7 +45421,7 @@
                     {
                       "name": "薄荷D13-须弥-降诸魔山4.json",
                       "type": "file",
-                      "hash": "37a1081310f1d54bd5517013ebca37dde6260fbf",
+                      "hash": "c5c00b991727363f25cb8e744142e145d30043cb",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -45426,7 +45431,7 @@
                         "全收集",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-05-11 01:40:41"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷D14-须弥-降诸魔山5.json",
@@ -46387,7 +46392,7 @@
                     {
                       "name": "薄荷F13-纳塔-花语会3.json",
                       "type": "file",
-                      "hash": "25a7cfbad28ec0632d185d7730478591c1ff529d",
+                      "hash": "886cde079e94202b4e3eb23ab8cb6fc4b2c1ddbd",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -46396,12 +46401,12 @@
                         "薄荷",
                         "全收集"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷F14-纳塔-花语会4.json",
                       "type": "file",
-                      "hash": "f96c700ed01129d6a0f584d1e7dae3be45fad458",
+                      "hash": "3404d87077d27f8cf500eb1b57ffcfd1299c3b1a",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -46410,7 +46415,7 @@
                         "薄荷",
                         "全收集"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷F15-纳塔-花语会5.json",
@@ -46561,7 +46566,7 @@
                     {
                       "name": "薄荷效率09-稻妻-海祇岛-珊瑚宫.json",
                       "type": "file",
-                      "hash": "d4d5518f959bbf5942adc74378edb5301afa1c10",
+                      "hash": "4b0c8f92db8316eec899cc40b90be1aeb1752da6",
                       "version": "1.0",
                       "author": "Tool_tingsu",
                       "description": "",
@@ -46570,7 +46575,7 @@
                         "薄荷",
                         "效率版"
                       ],
-                      "lastUpdated": "2025-05-11 17:05:54"
+                      "lastUpdated": "2025-05-12 00:31:59"
                     },
                     {
                       "name": "薄荷效率10-稻妻-八酝岛-藤兜砦2.json",
@@ -49086,12 +49091,12 @@
         {
           "name": "AutoLeyLineOutcrop",
           "type": "directory",
-          "hash": "cd8cf683389af4a8b9ed21319b2b8ccc37a9665c",
-          "version": "3.0.2",
+          "hash": "a3f9648f041c2d29e0ff4ee287c1129e5a943514",
+          "version": "3.1.0",
           "author": "ddaodan",
           "description": "全自动地脉花~|~基于OCR图像识别的全自动刷取地脉花。\n💡更多信息请查看在线手册：https://hcnsvf0s8d0s.feishu.cn/wiki/Tb1twpThLi7UlykqcYOcuccTnjJ \n\n----------注意事项----------\n●仅支持BetterGI 0.44.7 及以上版本！\n●脚本仍未完成，没有出现的路线还未制作，请耐心等待。目前只有蒙德是全部路线，其他国家请使用强制运行模式。\n●目前脚本能力有限，暂时不支持识别地脉花是否已经开启，请确保队伍的练度足够，中途出现角色血量过低或倒下会无法继续，届时需要在重新运行时手动关闭领取地脉花奖励的界面。\n●脚本还提供了强行运行的功能，当无法识别地脉花位置时可以指定线路，脚本将不再对地脉花进行识别，即使没有领取到奖励也会继续运行，适用于路线重跑以及开发调试。\n●运行时会传送到七天神像设置中设置的七天神像，可能需要关闭七天神像设置中的“是否就近七天神像恢复血量”，并指定七天神像。\n●战斗策略注意调度器设置中地图追踪行走配置里的“允许在JsSpript中使用”和“覆盖JS中的自动战斗配置”，只有在都打开的情况下脚本才会使用下面的战斗配置，否则会使用独立任务中的战斗策略。",
           "tags": [],
-          "lastUpdated": "2025-05-11 17:31:38"
+          "lastUpdated": "2025-05-12 05:28:54"
         },
         {
           "name": "AutoNobushi",
@@ -49186,12 +49191,14 @@
         {
           "name": "Auto全自动“枫丹”地脉花",
           "type": "directory",
-          "hash": "55bde455b9890f23103180701485b41ede10df6f",
+          "hash": "52fc3eab1d8b97ef37d94958150c4a90a62eea80",
           "version": "2.0",
-          "author": "平面镜&D捣蛋&LCB茶包",
-          "description": "地脉花-可禁UID&领每日&好感队切换~|~枫丹地脉花，蓝花金花通用。生存压力大，请带盾奶；避免纯水输出。地脉花特殊，请注意说明文件。QQ:119996800（茶包） 加我请说明来意。",
-          "tags": [],
-          "lastUpdated": "2025-05-11 17:05:54"
+          "author": "LCB-茶包",
+          "description": "地脉花-可禁UID/领每日/好感队切换~|~枫丹地脉花，蓝花金花通用。生存压力大，请带盾奶；避免纯水输出，请注意说明文件。如有BUG请联系作者QQ:119996800",
+          "tags": [
+            "地脉花"
+          ],
+          "lastUpdated": "2025-05-12 00:29:09"
         },
         {
           "name": "BattlePass",
@@ -49411,7 +49418,7 @@
           "author": "Tool_tingsu",
           "description": "薄荷采集~|~根据设置采集数量和执行时间自动采集薄荷",
           "tags": [],
-          "lastUpdated": "2025-05-11 17:05:54"
+          "lastUpdated": "2025-05-12 00:31:59"
         },
         {
           "name": "YuanQin",
@@ -49446,12 +49453,12 @@
         {
           "name": "七圣召唤七日历练全自动",
           "type": "directory",
-          "hash": "61930d31a10c649fceb1154ad12bb55f1cab7316",
-          "version": "1.6",
+          "hash": "09c7a7e145fa46e51c5af76d78dbb416ce8b421e",
+          "version": "1.8",
           "author": "柒叶子",
           "description": "打牌一条龙~|~只靠一个牌组的话，胜率还是太低了，所以有没有既简单又强势的卡组推荐下呢？",
           "tags": [],
-          "lastUpdated": "2025-05-06 19:48:27"
+          "lastUpdated": "2025-05-12 11:45:45"
         },
         {
           "name": "七圣召唤角色邀约全自动",
@@ -49556,12 +49563,24 @@
         {
           "name": "参量质变仪",
           "type": "directory",
-          "hash": "51c2d5cde4a2caf2c62d975b37fe5b8874d44980",
+          "hash": "80d85b70c4035d1cf6fd4d954a3c43d732bafafe",
           "version": "1.1",
-          "author": "LCB",
-          "description": "参量质变仪（LCB）~|~参量质变仪（LCB）",
+          "author": "LCB-茶包",
+          "description": "参量质变仪~|~参量质变仪自动化,请注意说明文件,如有BUG请联系作者QQ:119996800",
+          "tags": [
+            "参量质变仪"
+          ],
+          "lastUpdated": "2025-05-12 00:29:09"
+        },
+        {
+          "name": "周常-10个boss一条龙",
+          "type": "directory",
+          "hash": "958a1c9a4eddad2ee945d24acd41fbc66ef414e6",
+          "version": "1.3",
+          "author": "wjdsg",
+          "description": "周本-boss~|~请看一看readme文件",
           "tags": [],
-          "lastUpdated": "2025-04-29 18:37:59"
+          "lastUpdated": "2025-05-12 11:46:27"
         },
         {
           "name": "周本1-王狼",
@@ -49738,12 +49757,14 @@
         {
           "name": "爱可菲厨艺机关",
           "type": "directory",
-          "hash": "b04cc6fae4ef7ab41a8934e46395e1147045f8f2",
+          "hash": "4834ca561f4266d9e77f2600f2e7a477d0f2fb2c",
           "version": "1.2",
           "author": "LCB-茶包",
-          "description": "爱可菲自动化~|~爱可菲厨艺机关自动化",
-          "tags": [],
-          "lastUpdated": "2025-05-10 02:13:17"
+          "description": "爱可菲自动化~|~爱可菲厨艺机关自动化，请注意说明文件，如有BUG请联系作者QQ:119996800",
+          "tags": [
+            "爱可菲厨艺机关自动化"
+          ],
+          "lastUpdated": "2025-05-12 00:29:09"
         },
         {
           "name": "背包材料统计",
@@ -49753,7 +49774,7 @@
           "author": "吉吉喵",
           "description": "背包材料统计 ~|~默认四行为一页；模板匹配材料，OCR识别数量。\n数字太小可能无法识别，用?代替。\n目前支持 养成道具 和 素材 的两个大类。\n材料种类数量或导入js本地\n图包文件夹images放入assets下\n链接：https://share.weiyun.com/DVBGMPzU 密码：sg7avi",
           "tags": [],
-          "lastUpdated": "2025-05-11 17:10:57"
+          "lastUpdated": "2025-05-12 00:30:46"
         },
         {
           "name": "自动小怪锄地规划",
@@ -49800,12 +49821,12 @@
         {
           "name": "苍晶螺采集水下(77个)",
           "type": "directory",
-          "hash": "9ece0352232a9ef9ca0d84c4166205d91c7e9821",
-          "version": "1.0",
+          "hash": "00607309cdd8b6f4b8937de88e35d2173d1f8615",
+          "version": "1.1",
           "author": "柒叶子",
-          "description": "苍晶螺拾取~|~键鼠脚本使用双风芭芭拉录制，请将采集队伍按照这个标准配置，可以提升采集成功率",
+          "description": "苍晶螺拾取~|~键鼠脚本使用「芭芭拉+双风」录制。请将采集队伍按照这个标准配置，可以提升采集成功率。",
           "tags": [],
-          "lastUpdated": "2025-05-07 15:30:48"
+          "lastUpdated": "2025-05-12 10:25:48"
         },
         {
           "name": "计算机",
@@ -50207,17 +50228,18 @@
         {
           "name": "万迪夜诺.txt",
           "type": "file",
-          "hash": "9ac97afc5e7d97f9c0a064d3c8cc45329ab76aaa",
-          "version": "20250511173154",
+          "hash": "98cd99824d5f2c097dc4bf3e1ff9a664916540f8",
+          "version": "20250512114012",
           "author": "",
-          "description": "短轴纯战技队，适合锄地，输出不够可以增加战斗超时。万叶（聚怪），迪希雅（输出），夜兰（输出/追踪），诺艾尔（盾奶）。",
+          "description": "短轴纯战技队，适合锄地，输出不够可以增加战斗超时。万叶（聚怪），迪希雅（输出），夜兰（输出/追踪）或行秋（输出/抗打断），诺艾尔（盾奶）。",
           "tags": [
             "万叶",
             "迪希雅",
+            "行秋",
             "夜兰",
             "诺艾尔"
           ],
-          "lastUpdated": "2025-05-11 17:31:54"
+          "lastUpdated": "2025-05-12 11:40:12"
         },
         {
           "name": "久岐忍超绽放.txt",
@@ -50621,8 +50643,8 @@
         {
           "name": "挂机流锄地带万叶[请看文件内说明].txt",
           "type": "file",
-          "hash": "78246f66be9346e067d459a067fc3f0318429611",
-          "version": "20250107225904",
+          "hash": "7168186b743fbbf696ff27fa6058275cb8848357",
+          "version": "20250512003223",
           "author": "J_an",
           "description": "盾（钟离/茜特菈莉/莱依拉/绮良良/迪奥娜/白术）、自动攻击（芙宁娜/玛薇卡/菲谢尔/久岐忍/八重神子）和协同攻击（纳西妲/雷电将军）选二、万叶",
           "tags": [
@@ -50637,11 +50659,12 @@
             "菲谢尔",
             "久岐忍",
             "八重神子",
+            "爱可菲",
             "万叶",
             "纳西妲",
             "雷电将军"
           ],
-          "lastUpdated": "2025-01-07 22:59:04"
+          "lastUpdated": "2025-05-12 00:32:23"
         },
         {
           "name": "提八(空A重).txt",
@@ -51319,8 +51342,8 @@
         {
           "name": "莱万夜诺.txt",
           "type": "file",
-          "hash": "325557ef9c8774a347db2c2d7ebdf5cf973775f8",
-          "version": "20250510211743",
+          "hash": "16add51c26f30e45eff0c3cdde220e404d639f2f",
+          "version": "20250512114012",
           "author": "",
           "description": "适合角色少的玩家，盾奶全程覆盖确保安全，输出不够可以增加战斗超时，没有夜兰可用行秋代替。万叶（聚怪），莱依拉（盾），夜兰（追踪）或行秋（抗打断），诺艾尔（盾奶）。",
           "tags": [
@@ -51330,13 +51353,29 @@
             "夜兰",
             "诺艾尔"
           ],
-          "lastUpdated": "2025-05-10 21:17:43"
+          "lastUpdated": "2025-05-12 11:40:12"
         },
         {
-          "name": "莱万夜诺.战技.txt",
+          "name": "莱万夜诺.万叶1+命.txt",
+          "type": "file",
+          "hash": "b9d4f2d7e151dd6134851b9f06927d65e6880efc",
+          "version": "20250512114012",
+          "author": "",
+          "description": "适合角色少的玩家，盾奶全程覆盖确保安全，输出不够可以增加战斗超时，没有夜兰可用行秋代替。万叶（聚怪，1+命），莱依拉（盾），夜兰（追踪）或行秋（抗打断），诺艾尔（盾奶）。",
+          "tags": [
+            "莱依拉",
+            "万叶",
+            "行秋",
+            "夜兰",
+            "诺艾尔"
+          ],
+          "lastUpdated": "2025-05-12 11:40:12"
+        },
+        {
+          "name": "莱万夜诺.只用战技.txt",
           "type": "file",
           "hash": "d5250ae9601bdc00e241f75a6e979b55abb7003e",
-          "version": "20250510211743",
+          "version": "20250512114012",
           "author": "",
           "description": "适合角色少的玩家，盾奶全程覆盖确保安全，输出不够可以增加战斗超时，没有夜兰可用行秋代替。万叶（聚怪），莱依拉（盾），夜兰（追踪）或行秋（抗打断），诺艾尔（盾奶）。",
           "tags": [
@@ -51346,7 +51385,7 @@
             "夜兰",
             "诺艾尔"
           ],
-          "lastUpdated": "2025-05-10 21:17:43"
+          "lastUpdated": "2025-05-12 11:40:12"
         },
         {
           "name": "莱芙万猫.txt",
