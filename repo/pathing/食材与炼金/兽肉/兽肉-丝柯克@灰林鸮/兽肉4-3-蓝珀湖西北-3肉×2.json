@@ -1,4 +1,4 @@
-﻿{
+{
   "info": {
     "authors": [
       {
@@ -6,7 +6,7 @@
         "name": "灰林鸮"
       }
     ],
-    "bgi_version": "0.45.0",
+    "bgi_version": "0.52.0",
     "description": "",
     "enable_monster_loot_split": false,
     "last_modified_time": 1767114772747,
@@ -42,8 +42,8 @@
       "id": 3,
       "move_mode": "walk",
       "type": "path",
-      "x": 9251.3076171875,
-      "y": 2347.587890625
+      "x": 9251.3076,
+      "y": 2347.5879
     },
     {
       "action": "combat_script",
@@ -51,8 +51,8 @@
       "id": 4,
       "move_mode": "walk",
       "type": "path",
-      "x": 9244.630859375,
-      "y": 2347.8115234375
+      "x": 9244.6309,
+      "y": 2347.8115
     },
     {
       "action": "combat_script",
