@@ -1,5 +1,5 @@
 {
-  "time": "20251228212318",
+  "time": "20251230204150",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -53282,6 +53282,677 @@
                   ]
                 },
                 {
+                  "name": "兽肉-丝柯克@灰林鸮",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "兽肉1-1-灵濛山东-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉1-2-赤璋城垣东-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉1-3-瞑垣山南-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉1-4-瞑垣山北-3肉×3.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-01-卡萨扎莱宫东-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-02-须弥城东北-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-03-香醉坡-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-04-化城郭-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-05-化城郭西-3肉×3.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-06-降诸魔山西-3肉×4.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-07-奥摩斯港西北-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-08-禅那园-3肉×5.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-09-水天丛林-3肉×3.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-10-禅那园西-4肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-11-觉王之殿-3肉×3.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-12-禅那园北-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉2-13-须弥天赋-3肉×5.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-01-隆崛坡-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-02-纳塔天赋本-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-03-祖遗庙宇东-2肉×3+3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-04-万火之瓯-2肉×2+1肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-05-竞技场东-2肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-06-柴薪之丘东-2肉×5+1肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-07-柴薪之丘-3肉×3.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-08-花羽会-2肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-09-镜璧山西-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-10-安饶之野东北-3肉×3+1肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-11-安饶之野北东-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-12-安饶之野东-3肉×3.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉3-13-安饶之野西南-3肉×1.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉4-1-苔骨荒原东-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉4-2(危)-苔骨荒原北-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉4-3-蓝珀湖西北-3肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉4-4-羊圈-3肉×6.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    },
+                    {
+                      "name": "兽肉4-5-空寂走廊北-3肉×5.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "兽肉"
+                      ],
+                      "lastUpdated": "2025-12-29 09:11:41"
+                    }
+                  ]
+                },
+                {
                   "name": "兽肉@起个名字好难的喵&蜜柑魚",
                   "type": "directory",
                   "children": [
@@ -73964,7 +74635,7 @@
                         "绮良良",
                         "埃洛伊"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
                       "name": "禽肉1-5-蒙德风起地上-2肉×5.json",
@@ -74184,7 +74855,7 @@
                         "绮良良",
                         "埃洛伊"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
                       "name": "禽肉2-08-璃月地中之盐-2肉×1+1肉×3.json",
@@ -74473,6 +75144,25 @@
                       "lastUpdated": "2025-12-27 16:19:49"
                     },
                     {
+                      "name": "禽肉5-7-厄里那斯-2肉×2.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "灰林鸮",
+                      "authors": [
+                        {
+                          "name": "灰林鸮",
+                          "link": "https://github.com/Strix-nivicolum"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "禽肉"
+                      ],
+                      "lastUpdated": "2025-12-28 21:21:43"
+                    },
+                    {
                       "name": "禽肉6-1-纳塔硫晶支脉-2肉×1.json",
                       "type": "file",
                       "version": "1.0",
@@ -74665,10 +75355,10 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
-                      "name": "禽肉7-1-度假村码头-2肉×2.json",
+                      "name": "禽肉7-1-彩彩崖北-2肉×2.json",
                       "type": "file",
                       "version": "1.0",
                       "author": "灰林鸮",
@@ -74684,10 +75374,10 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
-                      "name": "禽肉7-2-度假村神像-2肉×4.json",
+                      "name": "禽肉7-2-悠悠集市东-2肉×2.json",
                       "type": "file",
                       "version": "1.0",
                       "author": "灰林鸮",
@@ -74703,10 +75393,10 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
-                      "name": "禽肉7-3-悠悠集市东-2肉×2.json",
+                      "name": "禽肉7-3-度假村码头-2肉×2.json",
                       "type": "file",
                       "version": "1.0",
                       "author": "灰林鸮",
@@ -74722,10 +75412,10 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
-                      "name": "禽肉7-4-彩彩崖北-2肉×2.json",
+                      "name": "禽肉7-4-度假村神像-2肉×4.json",
                       "type": "file",
                       "version": "1.0",
                       "author": "灰林鸮",
@@ -74741,7 +75431,7 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
                       "name": "禽肉8-1-那夏镇码头-2肉×2.json",
@@ -74817,7 +75507,7 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
                       "name": "禽肉8-5-苔骨荒原-1肉×4.json",
@@ -74855,7 +75545,7 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     },
                     {
                       "name": "禽肉8-7-刻拉蒂之眼-2肉×2.json",
@@ -74893,7 +75583,7 @@
                         "食材与炼金",
                         "禽肉"
                       ],
-                      "lastUpdated": "2025-12-27 16:19:49"
+                      "lastUpdated": "2025-12-28 21:21:43"
                     }
                   ]
                 }
@@ -89903,7 +90593,7 @@
         {
           "name": "ActivitySwitchNotice",
           "type": "directory",
-          "version": "0.0.2",
+          "version": "0.0.3",
           "author": "云端客",
           "authors": [
             {
@@ -89913,7 +90603,7 @@
           ],
           "description": "活动期限/周本通知器~|~",
           "tags": [],
-          "lastUpdated": "2025-12-23 18:23:58"
+          "lastUpdated": "2025-12-30 18:57:38"
         },
         {
           "name": "AllFowlTeyvat",
@@ -89974,7 +90664,7 @@
           "tags": [
             "bgi≥0.54.0"
           ],
-          "lastUpdated": "2025-12-26 20:48:02"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "ArtifactsGroupPurchasing",
@@ -90138,7 +90828,7 @@
         {
           "name": "AutoDomainCustomizable",
           "type": "directory",
-          "version": "0.4",
+          "version": "0.5",
           "author": "huiyadanli",
           "authors": [
             {
@@ -90156,11 +90846,11 @@
               "link": "https://github.com/RJFAC"
             }
           ],
-          "description": "传送并自动秘境(增强版)~|~BetterGI自带脚本的增强版。支持自定义传送后执行自动秘境的各项参数（如多种树脂设置、自动废弃圣遗物、轮数设置等）。(本脚本逻辑由AI辅助生成)",
+          "description": "传送并自动秘境(增强版)~|~BetterGI自带脚本的增强版，用于传送后并执行自动秘境。秘境中角色死亡复活后继续回去战斗。支持自定义各项参数（如树脂设置、自动废弃圣遗物、轮数设置等）与周期性素材刷取。(本脚本由AI辅助生成)",
           "tags": [
-            "bgi≥0.53.0"
+            "bgi≥0.54.0"
           ],
-          "lastUpdated": "2025-11-30 11:11:50"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "AutoEnter",
@@ -90198,7 +90888,7 @@
           "tags": [
             "bgi≥0.47.0"
           ],
-          "lastUpdated": "2025-12-16 08:40:38"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "AutoFontaineLeyLine",
@@ -90302,7 +90992,7 @@
         {
           "name": "AutoHoeingOneDragon",
           "type": "directory",
-          "version": "1.14.1",
+          "version": "1.15.1",
           "author": "mno",
           "authors": [
             {
@@ -90316,7 +91006,7 @@
           ],
           "description": "锄地一条龙~|~一站式解决自动化锄地，支持只拾取狗粮，请仔细阅读README.md后使用",
           "tags": [],
-          "lastUpdated": "2025-12-28 21:22:52"
+          "lastUpdated": "2025-12-30 03:24:19"
         },
         {
           "name": "AutoInstructorLock",
@@ -90331,7 +91021,7 @@
           ],
           "description": "锁定四星教官~|~锁定背包中的四星教官",
           "tags": [],
-          "lastUpdated": "2025-11-07 20:06:37"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "AutoLeyLineOutcrop",
@@ -90539,7 +91229,7 @@
           "tags": [
             "bgi≥0.54.0"
           ],
-          "lastUpdated": "2025-12-13 17:15:42"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "AutoTranscribePathing",
@@ -90714,7 +91404,7 @@
         {
           "name": "DeerGameMeat",
           "type": "directory",
-          "version": "1.2",
+          "version": "1.3",
           "author": "zaodonganqi",
           "authors": [
             {
@@ -90724,9 +91414,9 @@
           ],
           "description": "菈乌玛兽肉~|~菈乌玛兽肉路线脚本，支持潮湿状态检测和自动调时间功能",
           "tags": [
-            "bgi≥0.52.0"
+            "bgi≥0.54.0"
           ],
-          "lastUpdated": "2025-10-23 20:07:18"
+          "lastUpdated": "2025-12-30 20:41:26"
         },
         {
           "name": "DestroyArtifactsForMora",
@@ -90883,7 +91573,7 @@
           ],
           "description": "锄地路线测试~|~用于测试锄地路线的怪物信息，运行时间，并根据运行记录修改description字段，以适配js锄地一条龙",
           "tags": [],
-          "lastUpdated": "2025-09-15 09:21:06"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "HolyRelicsUp",
@@ -90952,7 +91642,7 @@
         {
           "name": "MiliastraExperiencePlayback",
           "type": "directory",
-          "version": "0.1.6",
+          "version": "0.1.7",
           "author": "breadgrocery",
           "authors": [
             {
@@ -90964,7 +91654,7 @@
           "tags": [
             "bgi≥0.53.0"
           ],
-          "lastUpdated": "2025-12-26 20:46:22"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "NaiLong",
@@ -91315,7 +92005,7 @@
           "tags": [
             "bgi≥0.45.1"
           ],
-          "lastUpdated": "2025-12-09 13:20:43"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "WeeklyBoss",
@@ -91347,7 +92037,7 @@
           "tags": [
             "bgi≥0.54.0"
           ],
-          "lastUpdated": "2025-12-22 21:03:34"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "YNF-AutoEat",
@@ -91401,7 +92091,7 @@
           "tags": [
             "bgi≥0.43.1"
           ],
-          "lastUpdated": "2025-12-07 17:40:20"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "waitUntilSpecifiedTime",
@@ -91422,7 +92112,7 @@
           "tags": [
             "bgi≥0.51.0"
           ],
-          "lastUpdated": "2025-10-15 23:40:10"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "一条龙不含自动副本+尘歌壶版",
@@ -91476,7 +92166,7 @@
           "tags": [
             "七圣召唤"
           ],
-          "lastUpdated": "2025-12-09 21:06:59"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "七圣召唤角色邀约全自动",
@@ -91640,7 +92330,7 @@
           ],
           "description": "只要大瓶~|~分解狗粮尽量只要大瓶",
           "tags": [],
-          "lastUpdated": "2025-12-07 00:20:06"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "多层文件夹处理",
@@ -91785,7 +92475,7 @@
           "tags": [
             "bgi≥0.51.0"
           ],
-          "lastUpdated": "2025-10-06 22:39:47"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "模板匹配区域坐标输出",
@@ -91881,7 +92571,7 @@
           "tags": [
             "bgi≥0.44.8"
           ],
-          "lastUpdated": "2025-12-14 16:08:31"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "自动循环使用料理",
@@ -92029,7 +92719,7 @@
         {
           "name": "采集cd管理",
           "type": "directory",
-          "version": "2.8.1",
+          "version": "2.8.2",
           "author": "mno",
           "authors": [
             {
@@ -92041,7 +92731,7 @@
           "tags": [
             "bgi≥0.44.8"
           ],
-          "lastUpdated": "2025-12-28 15:23:52"
+          "lastUpdated": "2025-12-29 06:55:42"
         },
         {
           "name": "铁匠铺",
@@ -92107,7 +92797,7 @@
             "OCR",
             "复选框"
           ],
-          "lastUpdated": "2025-11-01 20:02:15"
+          "lastUpdated": "2025-12-29 11:16:11"
         },
         {
           "name": "食材加工(模拟点击)",
@@ -92125,7 +92815,24 @@
             "食材加工",
             "模拟点击"
           ],
-          "lastUpdated": "2025-11-02 13:27:59"
+          "lastUpdated": "2025-12-29 11:16:11"
+        },
+        {
+          "name": "食材加工极速版",
+          "type": "directory",
+          "version": "1.0",
+          "author": "mno",
+          "authors": [
+            {
+              "name": "mno",
+              "link": "https://github.com/Bedrockx"
+            }
+          ],
+          "description": "食材加工极速版~|~目前最快最稳的食材加工（原则上仅用于1080p分辨率，其他分辨率能够使用纯属巧合，出现问题后果自负",
+          "tags": [
+            "bgi≥0.44.8"
+          ],
+          "lastUpdated": "2025-12-29 06:55:42"
         },
         {
           "name": "首领讨伐一条龙",
